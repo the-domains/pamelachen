@@ -1,0 +1,12 @@
+layout_spectrum: 0.594522
+typography_spectrum: 0.2808808
+color:
+  saturation: 0.2635625
+  lightness: 0.8861445
+  brandStrength: 0.2755102
+  brandColors:
+    - '#FFFFFF'
+    - '#929292'
+    - '#9CD7CF'
+  rhythmicContrast: 0.4219922
+name: Pamelachen
