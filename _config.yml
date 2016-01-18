@@ -1,5 +1,7 @@
-favicon: null
-name: Pamelachen
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -28,12 +30,10 @@ color:
     - '#9BD6CF'
   rhythmicContrast: 0.7588615
 typography_spectrum: 0.7534909
-layout_spectrum: 0.358217
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 cta:
   bucket: null
   version: null
   domain: null
+layout_spectrum: 0.9479054
+favicon: null
+name: Pamelachen
