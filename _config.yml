@@ -1,3 +1,7 @@
+name: Pamelachen
+favicon: null
+layout_spectrum: 0.594522
+typography_spectrum: 0.7534909
 collections:
   - index:
       path: /
@@ -10,15 +14,25 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2635625
-  brandStrength: 0.2755102
-  rhythmicContrast: 0.4219922
   brandColors:
     - '#FFFFFF'
     - '#929292'
     - '#9CD7CF'
+  brandStrength: 0.2755102
   lightness: 0.8861445
-typography_spectrum: 0.7534909
-layout_spectrum: 0.594522
-name: Pamelachen
+  saturation: 0.2635625
+  rhythmicContrast: 0.4219922
+purpose: []
